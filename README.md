@@ -10,6 +10,22 @@ This project addresses these challenges by offering a seamless, intelligent, and
 
 ---
 
+## Project Screenshots
+
+### a. Homepage Window:
+![Homepage](./public/Picture1.png)
+
+### b. Login Page:
+![Login Page](./public/Picture2.png)
+
+### c. User Adding Educational Details with Live Preview:
+![Educational Details](./public/Picture3.png)
+
+### d. Final Resume Generated Using Website:
+![Final Resume](./public/Picture4.png)
+
+---
+
 ## Specific Requirements
 
 ### a. Functional Requirements
@@ -83,8 +99,6 @@ This project addresses these challenges by offering a seamless, intelligent, and
 
 ---
 
-
-
 ## Installation Guide
 
 Follow these steps to set up and run the project locally:
@@ -128,14 +142,5 @@ Follow these steps to set up and run the project locally:
    - Open `http://localhost:3000` in your browser.
 
 ---
-
-
-
-## Contributing
-
-Feel free to submit issues, feature requests, or pull requests to improve this project.
-
----
-
 
 
